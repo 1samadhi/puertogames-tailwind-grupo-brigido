@@ -12,23 +12,6 @@ Sitio web de PuertoGames desarrollado con HTML y Tailwind CSS. Proyecto académi
 - `src/` — Contiene todos los archivos HTML, CSS y recursos del sitio.
 - `package.json` — Configuración de scripts y dependencias.
 
-## 🛠️ Despliegue en GitHub Pages
-
-Para publicar el sitio en GitHub Pages:
-
-1. Instala dependencias:
-   ```bash
-   npm install
-   ```
-2. Genera el CSS de Tailwind:
-   ```bash
-   npm run build
-   ```
-3. Publica en gh-pages:
-   ```bash
-   npm run deploy
-   ```
-
 ## 👥 Colaboradores
 
 - **Coyak** - Angel Bustamante
@@ -39,4 +22,5 @@ Para publicar el sitio en GitHub Pages:
 
 ---
 
-Proyecto realizado para fines educativos. Todos los derechos reservados © PuertoGames 2025. 
+Profesor: Marcelo Eduardo Crisostomo Carrasco
+Proyecto realizado para asignatura DESARROLLO JAVA PARA WEB.
